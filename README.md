@@ -1,2 +1,2 @@
-# Time
-Watch the clock tick.
+# p5.play-boilerplate
+Boiler plate for p5.play
